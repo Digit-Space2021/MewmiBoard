@@ -1,53 +1,12 @@
-# FnBlackboard / 飞牛小黑板
+# 喵咪小黑板 · Mewmi Board
 
-FnBlackboard（飞牛小黑板）是一款适用于 fnOS 的第三方轻量笔记、任务与多人协作文档工具。
+记下现在，照顾以后。运行于自有fnOS NAS的个人记录、事项提醒与多人协作文档工具。
 
-## 下载
+- [正式安装包与版本说明](https://github.com/Digit-Space2021/MewmiBoard/releases)
+- [使用说明](docs/USER-GUIDE-0.5.6.md)
+- [在线更新清单](https://digit-space2021.github.io/MewmiBoard/latest.json)
+- [隐私说明](docs/privacy.html) · [使用与版权](docs/TERMS.txt) · [第三方许可](docs/THIRD_PARTY_NOTICES.txt)
 
-请前往 [GitHub Releases](https://github.com/Digit-Space2021/FnBlackboard/releases/latest) 下载与设备 CPU 架构匹配的安装包：
+可从0.4.5直接升级，无需逐版安装。安装前停止应用并备份NAS持久数据及私有密钥。回装旧版需要对应数据备份。
 
-- x86 / AMD64
-- ARM64
-
-## 更新
-
-FnBlackboard 支持用户主动查询公开发布版本信息。通过飞牛应用中心安装的用户建议优先通过应用中心更新。
-
-## 隐私与许可
-
-- 隐私说明：[privacy.html](docs/privacy.html)
-- 使用与版权说明：[TERMS.txt](docs/TERMS.txt)
-- 第三方开源软件许可：[THIRD_PARTY_NOTICES.txt](docs/THIRD_PARTY_NOTICES.txt)
-
-
-## 源代码
-
-FnBlackboard 当前为免费软件，但暂不公开其自有源代码。公共仓库仅用于版本发布、更新信息与用户支持。
-
-## AI 辅助开发说明
-
-本项目开发过程中借助 AI 工具进行代码分析、调试辅助、文档整理与界面优化；功能设计、测试验证、版本发布与后续维护责任由开发者承担。
-
-## 平台声明
-
-FnBlackboard 为第三方独立应用。“飞牛”、fnOS 及相关名称和标识归其各自权利人所有。本项目使用相关名称仅用于说明适配平台及运行环境，不表示官方隶属、授权或背书关系；如平台审核提出要求，将按审核意见调整。
-
-## 问题反馈
-
-请通过本仓库 Issues 反馈问题。
-
-
-## English introduction images
-
-<details>
-<summary>Capture today. Care for tomorrow.</summary>
-
-<a href="https://raw.githubusercontent.com/Digit-Space2021/FnBlackboard/main/market/evergreen-v1/en/01-brand.webp"><img src="https://raw.githubusercontent.com/Digit-Space2021/FnBlackboard/main/market/evergreen-v1/en/01-brand.webp" width="200" alt="Capture today. Care for tomorrow." /></a>
-<a href="https://raw.githubusercontent.com/Digit-Space2021/FnBlackboard/main/market/evergreen-v1/en/02-capture-action.webp"><img src="https://raw.githubusercontent.com/Digit-Space2021/FnBlackboard/main/market/evergreen-v1/en/02-capture-action.webp" width="200" alt="Catch the thought. Follow it through." /></a>
-<a href="https://raw.githubusercontent.com/Digit-Space2021/FnBlackboard/main/market/evergreen-v1/en/03-shared-spaces.webp"><img src="https://raw.githubusercontent.com/Digit-Space2021/FnBlackboard/main/market/evergreen-v1/en/03-shared-spaces.webp" width="200" alt="A space for you. Room to do more together." /></a>
-<a href="https://raw.githubusercontent.com/Digit-Space2021/FnBlackboard/main/market/evergreen-v1/en/04-lasting-memory.webp"><img src="https://raw.githubusercontent.com/Digit-Space2021/FnBlackboard/main/market/evergreen-v1/en/04-lasting-memory.webp" width="200" alt="Keep the story. Remember the journey." /></a>
-<a href="https://raw.githubusercontent.com/Digit-Space2021/FnBlackboard/main/market/evergreen-v1/en/05-future-vision.webp"><img src="https://raw.githubusercontent.com/Digit-Space2021/FnBlackboard/main/market/evergreen-v1/en/05-future-vision.webp" width="200" alt="Let intelligence help. Keep decisions yours. (Future vision)" /></a>
-
-Brand illustrations, not application screenshots. The fifth image presents a future vision; features depend on the current release.
-
-</details>
+本仓库公开发布材料与文档；完整源码在私有仓库维护。原FnBlackboard仓库保留历史版本和旧客户端更新入口；新版本以本项目Release及实际附件SHA256为准。旧品牌宣传素材仅归档，当前介绍不引用旧宣传图。

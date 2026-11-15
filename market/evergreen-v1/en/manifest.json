@@ -3,7 +3,7 @@
   "assetSet": "evergreen-v1",
   "locale": "en",
   "published": true,
-  "status": "published",
+  "status": "archived-old-brand",
   "imageType": "brand-illustration-not-app-screenshot",
   "slides": [
     {
@@ -56,5 +56,7 @@
       "bytes": 144884,
       "sha256": "d3c278c2ed7e3fe3d97eccbe0a297eb5be6ad131255138ec93593689d3d2f5b3"
     }
-  ]
+  ],
+  "active": false,
+  "note": "历史宣传图保留原始字节与SHA，当前界面不引用。"
 }

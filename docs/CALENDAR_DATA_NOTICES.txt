@@ -1,4 +1,4 @@
-FnBlackboard calendar factual data attribution / 0.5.0
+喵咪小黑板 / Mewmi Board calendar factual data attribution / 0.5.2
 
 Gregorian-Lunar month boundaries were derived from Hong Kong Observatory
 Gregorian-Lunar Calendar Conversion Tables (1901-2100), accessed 2026-11-06.
@@ -18,4 +18,4 @@ of a government calendar. Known local official facts take precedence.
 Source: https://uapis.cn/docs/api-reference/get-misc-holiday-calendar
 
 These factual-data references do not license third-party page layouts,
-logos or code as FnBlackboard property, and do not imply official endorsement.
+logos or code as Mewmi Board property, and do not imply official endorsement.

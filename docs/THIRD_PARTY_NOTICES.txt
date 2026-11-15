@@ -1,14 +1,14 @@
-FnBlackboard - Third-Party Software Notices
+喵咪小黑板 / Mewmi Board - Third-Party Software Notices
 
-This file is generated from the runtime npm dependency graph and the Go module graph used to build FnBlackboard.
-FnBlackboard itself is not licensed under the third-party licenses listed below. Each third-party component remains governed by its own license.
+This file is generated from the runtime npm dependency graph and the Go module graph used to build Mewmi Board.
+Mewmi Board itself is not licensed under the third-party licenses listed below. Each third-party component remains governed by its own license.
 
 Runtime npm packages: 76
 Go modules: 40
 
 All discovered runtime components exposed at least one license/notice file.
 
-Application version: 0.5.0
+Application version: 0.5.6
 
 ================================================================
 JavaScript runtime dependencies
@@ -4253,7 +4253,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 Calendar factual data attribution
 ================================================================
 
-FnBlackboard calendar factual data attribution / 0.5.0
+喵咪小黑板 / Mewmi Board calendar factual data attribution / 0.5.2
 
 Gregorian-Lunar month boundaries were derived from Hong Kong Observatory
 Gregorian-Lunar Calendar Conversion Tables (1901-2100), accessed 2026-11-06.
@@ -4273,4 +4273,4 @@ of a government calendar. Known local official facts take precedence.
 Source: https://uapis.cn/docs/api-reference/get-misc-holiday-calendar
 
 These factual-data references do not license third-party page layouts,
-logos or code as FnBlackboard property, and do not imply official endorsement.
+logos or code as Mewmi Board property, and do not imply official endorsement.
