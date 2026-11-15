@@ -1,29 +1,27 @@
 {
   "app": "fnblackboard",
-  "version": "0.5.0",
-  "published_at": "2026-11-11",
+  "version": "0.5.6",
+  "published_at": "2026-11-15",
   "min_fnos_version": "1.2.0401",
-  "repository": "https://github.com/Digit-Space2021/FnBlackboard",
-  "release_page": "https://github.com/Digit-Space2021/FnBlackboard/releases/tag/v0.5.0",
+  "repository": "https://github.com/Digit-Space2021/MewmiBoard",
+  "release_page": "https://github.com/Digit-Space2021/MewmiBoard/releases/tag/v0.5.6",
   "changelog": [
-    "一句话解析日期、重复规则和多条提醒，核对后直接创建事项。",
-    "每位成员可设多条提醒及独立内容，支持相对时间和休息日免打扰。",
-    "完善农历、工作日及自定义重复，提醒随每轮事项触发，历史记录保留。",
-    "新增日周月日历、时间轴、常用ICS导入导出和真实等待跟进记录。",
-    "飞书、钉钉、企业微信双向接入，通用Agent按授权查询、接收提醒和确认创建。",
-    "今日重点、日周简报、记录热力图和一键今日小卡片，查看安排更方便。",
-    "完善空间成员、协作文档图片、手机布局和可缩放设置窗口。"
+    "一句话解析事项时间、重复规则与多条提醒，支持每位成员填写独立提醒内容。",
+    "支持公农历、工作日和自定义重复，保留历史轮次，提醒随重复触发。",
+    "新增日周月日历、跨页多选与ICS导入导出，完善时间轴和协作文档图片。",
+    "接入飞书、钉钉、企业微信双向消息，Agent可授权查询、接收提醒并经确认创建内容。",
+    "新增日周简报、热力图和一键今日小卡片，完善空间管理、手机布局与明暗主题。"
   ],
   "assets": {
     "x86": {
-      "name": "FnBlackboard_0.5.0_x86.fpk",
-      "url": "https://github.com/Digit-Space2021/FnBlackboard/releases/download/v0.5.0/FnBlackboard_0.5.0_x86.fpk",
-      "sha256": "F11F49123EB656276B517A4EE86CA2F4A7D0CB6FDF3D395F21ED866B3708250A"
+      "name": "MewmiBoard_0.5.6_x86.fpk",
+      "url": "https://github.com/Digit-Space2021/MewmiBoard/releases/download/v0.5.6/MewmiBoard_0.5.6_x86.fpk",
+      "sha256": "A56692FAEDB2EB14B4754CB4F500A14251D862FA996F92584FEF2E8CF7A7E427"
     },
     "arm": {
-      "name": "FnBlackboard_0.5.0_arm.fpk",
-      "url": "https://github.com/Digit-Space2021/FnBlackboard/releases/download/v0.5.0/FnBlackboard_0.5.0_arm.fpk",
-      "sha256": "83DF12328A256C37F37675E6FDDC061FFB84B02BCC3475BC086F4C6D9ED75484"
+      "name": "MewmiBoard_0.5.6_arm.fpk",
+      "url": "https://github.com/Digit-Space2021/MewmiBoard/releases/download/v0.5.6/MewmiBoard_0.5.6_arm.fpk",
+      "sha256": "5F36BD7B0AEDFF24E6564DE9900EEDB91F5161BC7863F62B7B32F37937670C3D"
     }
   }
 }
